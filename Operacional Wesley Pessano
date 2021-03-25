@@ -132,7 +132,7 @@ Rompe com vela de força, corrigi com outra vela de força e entramos a favor da
 Exemplos de quando efetuar o pullback: (EM M1).
 https://imgur.com/a/W5GOe6b
 
-𝟳. 𝗤𝗨𝗔𝗡𝗗𝗢 𝗡𝗔𝗢 𝗘𝗡𝗧𝗥𝗔𝗥:
+𝗤𝗨𝗔𝗡𝗗𝗢 𝗡𝗔𝗢 𝗘𝗡𝗧𝗥𝗔𝗥:
 Não efetuar a operação quando o candle que busca o pullback já estiver revertido (com pavio de mínima).
 Não importa se o pavio de mínima é pequeno ou grande, não entramos, pois não é pico de vela.
 O candle tem que está somente indo com pico para buscar nossa região.
