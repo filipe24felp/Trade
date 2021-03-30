@@ -55,14 +55,15 @@ Quando não tiver pavio próximo ao preço atual (linha pontilhada) pode pegar u
 Pode marcar em doji, desde que esteja com pavio grande e mais próximo do candle atual.
 Pode marcar no mesmo candle atual, desde que seja em pavio de mínima, e não tenha nenhum que obedece as regras.
 2 - A linha do meio é indicada pelo preço atual (linha pontilhada), o preço pode está em cima do pavio ou muito próximo dele. Procure a confluência.
-3 - Use a linha de tendência (distância da resistência para a linha do meio) para pegar o suporte. A confluência se dá automaticamente neste último traçamento.
+3 - Use a linha (clique no meio da resistência, arraste a bolinha branca para o meio da linha do meio) para pegar o suporte. A confluência se dá automaticamente no suporte.
 A distância entre os traçamentos deve ser o suficiente para não está sufocando ou muito distante.
 A distância entre os traçamentos deve ser idênticas ou com pouca diferença, tanto no M15, quanto no M1.
 Após fazer todo traçamento, não importa se o preço atual (linha portilhada) vai está dentro ou fora do seu traçamento.
 A RESISTÊNCIA, LINHA DO MEIO E O SUPORTE PODE SER MARCADO EM QUALQUER CANDLE E EM QUALQUER PAVIO, DESDE QUE ESTEJA SEGUINDO AS REGRAS.
 4 - Revise todo traçamento, conforme as regras.
 Comece pela resistência, analisando candle por candle, da direita para a esquerda, verificando se tem um pavio melhor e que mais segue as regras para ser marcado.
-A linha do meio é nosso preço atual.
+Caso encontrar uma zona de resistência melhor e que mais respeita as regras, é preciso fazer o suporte novamente, o preço atual permanece.
+A linha do meio é nosso preço atual, não alteramos.
 Exemplo de traçamento: (EM M15).
 https://imgur.com/a/m1Ukp2i
 
